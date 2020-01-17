@@ -1,0 +1,4 @@
+export const REGISTER = 'ACTION_AUTH_REGISTER';
+export const LOGIN = 'ACTION_AUTH_LOGIN';
+export const LOGOUT = 'ACTION_AUTH_LOGOUT';
+export const PROCESSING = 'ACTION_AUTH_PROCESSING';

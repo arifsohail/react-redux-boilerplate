@@ -1,0 +1,26 @@
+.man{
+   width:100%;
+    min-height:100vh;
+    background-color: rgba(11, 11, 23, 0.94);
+
+}
+
+.table  {
+    minWidth: 700,
+}
+
+.message {
+ color: #b6deff;
+ text-align: center;
+ padding: 25px;
+}
+
+.man button {
+    padding:20px;
+    background-color: rgba(11, 11, 23, 0.94);
+    border: 2px solid gray;
+    cursor: pointer;
+
+}
+
+

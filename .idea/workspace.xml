@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d1a3fd6-f26f-452c-8c02-fd4903410665" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1W1DbPE3o7lvup0YeB5zjfmRPtK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/reducers" />
+      <recent name="$PROJECT_DIR$/src/actions" />
+      <recent name="$PROJECT_DIR$/src/action-types" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d1a3fd6-f26f-452c-8c02-fd4903410665" name="Default Changelist" comment="" />
+      <created>1578308277685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578308277685</updated>
+      <workItem from="1578308285328" duration="12060000" />
+      <workItem from="1578405012822" duration="896000" />
+      <workItem from="1578469768065" duration="612000" />
+      <workItem from="1578640082583" duration="25022000" />
+      <workItem from="1579001703165" duration="1876000" />
+      <workItem from="1579066023164" duration="7328000" />
+      <workItem from="1579083004387" duration="21917000" />
+      <workItem from="1579241490345" duration="5775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1120" y="212" width="800" height="672" key="#ESLint" timestamp="1579111444931">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="1120" y="212" width="800" height="672" key="#ESLint/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579111444931" />
+    <state x="2586" y="323" width="609" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578894823112">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2586" y="323" width="609" height="410" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1035/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578894823112" />
+    <state x="666" y="310" width="630" height="410" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1578377098421" />
+    <state x="2613" y="288" width="524" height="496" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579241246551">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="288" width="524" height="496" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579241246551" />
+    <state x="2251" y="224" key="SettingsEditor" timestamp="1579241901999">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2435" y="154" key="SettingsEditor/0.0.1920.1035/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579002322559" />
+    <state x="449" y="153" key="SettingsEditor/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1578380380838" />
+    <state x="2251" y="224" key="SettingsEditor/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579241901999" />
+    <state x="1214" y="100" width="706" height="878" key="find.popup" timestamp="1579115032882">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="607" y="96" width="706" height="843" key="find.popup/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1578380446217" />
+    <state x="1214" y="100" width="706" height="878" key="find.popup/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579115032882" />
+    <state x="624" y="254" width="672" height="677" key="run.anything.popup" timestamp="1579108284313">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="624" y="254" width="672" height="677" key="run.anything.popup/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579108284313" />
+    <state x="2543" y="236" width="672" height="706" key="search.everywhere.popup" timestamp="1579114955818">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="236" width="672" height="706" key="search.everywhere.popup/0.0.1920.1035/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578652699055" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1578380395997" />
+    <state x="2543" y="236" width="672" height="706" key="search.everywhere.popup/0.24.1920.1056/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579114955818" />
+  </component>
+</project>
