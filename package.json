@@ -1,7 +1,9 @@
 {
   "name": "react-redux-boilerplate",
   "version": "0.1.0",
-  "author": {"name": "Sohail Arif"},
+  "author": {
+    "name": "Sohail Arif"
+  },
   "private": true,
   "dependencies": {
     "@babel/core": "7.7.4",
@@ -32,6 +34,7 @@
     "eslint-plugin-react": "7.16.0",
     "eslint-plugin-react-hooks": "^1.6.1",
     "file-loader": "4.3.0",
+    "flow-bin": "^0.118.0",
     "fs-extra": "^8.1.0",
     "html-webpack-plugin": "4.0.0-beta.5",
     "identity-obj-proxy": "3.0.0",
@@ -53,6 +56,7 @@
     "react-dev-utils": "^10.0.0",
     "react-dom": "^16.12.0",
     "react-redux": "^7.1.3",
+    "react-router-dom": "^5.1.2",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "resolve": "1.12.2",
@@ -72,7 +76,8 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js"
+    "test": "node scripts/test.js",
+    "flow": "flow"
   },
   "eslintConfig": {
     "extends": "react-app"

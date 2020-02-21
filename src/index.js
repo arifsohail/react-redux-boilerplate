@@ -10,7 +10,7 @@ import connectSocket from './socket-io/socket-io';
 import reducer from "./reducers";
 
 // Setup socket
-export const socket = connectSocket();
+//export const socket = connectSocket();
 
 const composeEnhancer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 export const store = createStore(

@@ -32,7 +32,7 @@ const StyledTableRow = withStyles(theme => ({
     },
 }))(TableRow);
 
-const CustomTable = (props: Props) => {
+const CustomTable = (props: Object) => {
     return (
         <TableContainer component={Paper}>
             <Table className={ManCss.table} aria-label="customized table">
